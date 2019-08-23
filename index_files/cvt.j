@@ -1,10 +1,6 @@
 
 
 		var ks_lang_content = {
-	
-		
-		
-		
 			dc_save:'快商在线咨询聊天记录',dc_dialogEt:function(s){return '【'+s+'】客服正在邀请您对话';},dc_rest:'点击还原直接对话窗口',dc_sysTitle:'[系统提示]',dc_closeCheck:'当前正在咨询中,是否确定关闭对话窗口?',dc_dialogEr:'对话已结束,无法转到普通对话窗口!',dc_clear:'确定清除聊天记录吗?',dc_altClose:'关闭直接对话窗口',dc_altBig:'转到普通对话窗口',dc_alt2Manual: '转人工',dc_altSmall:'最小化对话窗口',dc_altWeb:'快商通官方网站',dc_altCut:'截图',dc_altPrint:'打印',dc_altSave:'保存记录',dc_altClear:'清除屏幕讯息',dc_altSend:'按Enter键直接发送消息',dc_textSend:'发&nbsp;&nbsp;送',dc_dialogE:'对话已结束，若还有问题，随时欢迎您再次咨询，祝您愉快，再见！',dc_sendNull:'不能发送空消息!',dc_tooLong:'您发送的内容过多,请减少些内容后再发!',dc_robotTitle:'您是不是咨询下面的问题？[点击展开答案]',dc_dialogEs:'您可以点击下面的按钮"保存"或"打印"保留本次对话记录.',dc_dialogMbEs:'您的本次沟通已结束，随时欢迎您再次咨询！',dc_youSay:'您说：',dc_noSupportCut:'非IE浏览器不支持截图!',dc_downloadCut:'没有安装截图控件,请先下载截图控件!',dc_hideCutWin:'是否隐藏当前窗口?',dc_chatIdNotEqu:'由于您又建立了一个新对话,该对话自动结束,请切换至新打开的聊天窗口继续咨询!',dc_dialogAlreadyEndType:function(ec){return '对话已结束,结束类型['+ec+']!'},dc_dialogAlreadyEnd:'对话已结束!',vi_displayColor:function(s){return s+' 位彩色';},gr_sOnline:'在线',gr_sBusy:'忙碌',gr_sLeave:'离开',gr_sOffline:'离线',gr_sPhone:'电话',gr_sWord:'留言',gr_sShort:'短信',gr_sRobot:'自助',fl_onLineImgAlt:'若您有疑问，请点击此处进行咨询！',fl_offLineImgAlt:'如您有疑问请留言，我们会尽快答复您！',ad_addFav:'添加到收藏夹,下次可以更便捷的访问本网站',inv_input_here:'在此输入可直接对话',err_nomatch:'对不起,暂时不能为您服务,请检查本站域名是否绑定授权,抱歉!【快商通在线客服】',dir_small_msg:'点击立即咨询',mini_leaveContent:'留言內容',mini_name:'姓名',mini_tel:'电话',mini_email:'邮箱',mini_topic:'主题',mini_leaveContent_topic:'请输入留言内容！',mini_name_topic:'请输入您的姓名！',mini_tel_topic:'请输入电话号码！',mini_email_topic:'请输入电子邮件！',mini_qq_topic:'请输入QQ号码！',mini_leaveTopic_topic:'请输入留言主题！',mini_submitSucc:'您的留言已经发送成功，我们会尽快处理，谢谢您的光临！',mini_maxLength:function($1,$2,$3){return '【'+$1+'】不能大于'+$2+'字,当前字数为['+$3+']!'},mini_notEmpty:function($1){return '【'+$1+'】不能为空!'},mini_errorTitle:function($1){return '请输入正确的【'+$1+'】!'},oc_evaluate_noscore:'请点击进行评分',oc_editor_alertevaluate0:'没有与任何客服建立连接,不能进行评价!',oc_editor_alertevaluate1:'会话已停止,不能进行评价!'
 		
 	

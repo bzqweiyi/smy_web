@@ -1041,6 +1041,11 @@ $("#result").html();
 });
 }
 
+//new add script
+$('.course-nav a').children('span').addClass('color-d').parent().siblings().children('span').removeClass('color-d')
+var aDivv = $('.course-list .course-none');
+aDivv.removeClass('counrse-block');
+aDivv.eq($('.course-nav a').index()).addClass('counrse-block').siblings().removeClass('counrse-block');
 
 
 $('.rz-right .zheng1').hover(function(){
@@ -1049,6 +1054,9 @@ $(this).children('p').animate({'top':'270px'},300);
 $(this).children('p').animate({'top':'370px'},300);
 });
 </script>
+
+
+
 
  
 <!--footer-->
